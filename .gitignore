@@ -22,3 +22,11 @@ tests/testsuite/*/*/book/
 node_modules
 package-lock.json
 package.json
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/gitconfig
+.programbench/home/
+.programbench/tests/
+.programbench/run/
